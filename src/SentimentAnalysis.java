@@ -14,7 +14,7 @@ public class SentimentAnalysis {
 	StanfordCoreNLP stanfordCoreNLP = Pipeline.getPipeline();
 	
 	 Path fileName
-     = Path.of("/Users/nadaa/Desktop/sentimenttest.txt");
+     = Path.of("Resources/sentimenttest.txt");
 
 	 // Now calling Files.readString() method to
 	 // read the file into the string
