@@ -1,1 +1,1 @@
-# SimpleProjects
+# SimpleSentimentAnalysisProject
